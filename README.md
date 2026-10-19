@@ -32,6 +32,20 @@ Low-poly 3D assets modeled in Blender and exported for Godot. Click an image to 
   </tr>
 </table>
 
+## Crossbow
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="crossbow/">
+        <img src="crossbow/crossbow.png" alt="Crossbow" width="300">
+      </a>
+    </td>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ## Directory Contents
