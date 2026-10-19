@@ -8,12 +8,12 @@ Low-poly 3D assets modeled in Blender and exported for Godot. Click an image to 
   <tr>
     <td align="center">
       <a href="bow_and_arrow/">
-        <img src="bow_and_arrow/bow_1.png" alt="Bow" width="300">
+        <img src="bow_and_arrow/bow.png" alt="Bow" width="300">
       </a>
     </td>
     <td align="center">
       <a href="bow_and_arrow/">
-        <img src="bow_and_arrow/arrow_1.png" alt="Arrow" width="300">
+        <img src="bow_and_arrow/arrow.png" alt="Arrow" width="300">
       </a>
     </td>
   </tr>
@@ -21,9 +21,16 @@ Low-poly 3D assets modeled in Blender and exported for Godot. Click an image to 
 
 ## Wall Torch
 
-<a href="wall_torch/">
-  <img src="wall_torch/wall_torch.png" alt="Wall Torch" width="300">
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="wall_torch/">
+        <img src="wall_torch/wall_torch.png" alt="Wall Torch" width="300">
+      </a>
+    </td>
+    </td>
+  </tr>
+</table>
 
 ---
 
