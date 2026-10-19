@@ -45,6 +45,19 @@ Low-poly 3D assets modeled in Blender and exported for Godot. Click an image to 
   </tr>
 </table>
 
+## Wizard Staff
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="wizard_staff/">
+        <img src="wizard_staff/wizard_staff.png" alt="Wizard Staff" width="300">
+      </a>
+    </td>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
