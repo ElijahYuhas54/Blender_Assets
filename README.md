@@ -21,9 +21,16 @@ Low-poly 3D assets modeled in Blender and exported for Godot. Click an image to 
 
 ## Wall Torch
 
-<a href="wall_torch/">
-  <img src="wall_torch/wall_torch.png" alt="Wall Torch" width="300">
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="wall_torch/">
+        <img src="wall_torch/wall_torch.png" alt="Wall Torch" width="300">
+      </a>
+    </td>
+    </td>
+  </tr>
+</table>
 
 ---
 
