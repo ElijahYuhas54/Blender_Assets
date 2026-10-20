@@ -58,6 +58,19 @@ Low-poly 3D assets modeled in Blender and exported for Godot. Click an image to 
   </tr>
 </table>
 
+## Sword
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="sword/">
+        <img src="sword/sword.png" alt="Sword" width="300">
+      </a>
+    </td>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
