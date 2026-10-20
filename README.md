@@ -89,8 +89,8 @@ Each model has its own directory, and every directory holds the same types of fi
       </a>
     </td>
     <td align="center">
-      <a href="wooden_gate/">
-        <img src="wooden_gate/wooden_gate.png" alt="Wooden Gate" width="300">
+      <a href="wooden_door/">
+        <img src="wooden_door/wooden_gate.png" alt="Wooden Gate" width="300">
       </a>
     </td>
   </tr>
