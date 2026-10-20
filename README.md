@@ -5,6 +5,7 @@ Low-poly 3D assets modeled in Blender and exported for Godot. Click an image to 
 ## Colors Used
 
 - **Wood:** #B8732E
+- **Medium Wood:** #8B5A2B
 - **Cool Metal Gray:** #9AA3AB
 - **Dark Iron:** #6B7178
 - **Silver:** #D9DEE2
@@ -51,7 +52,6 @@ Each model has its own directory, and every directory holds the same types of fi
         <img src="wall_torch/wall_torch.png" alt="Wall Torch" width="300">
       </a>
     </td>
-    </td>
   </tr>
 </table>
 
@@ -63,7 +63,6 @@ Each model has its own directory, and every directory holds the same types of fi
       <a href="crossbow/">
         <img src="crossbow/crossbow.png" alt="Crossbow" width="300">
       </a>
-    </td>
     </td>
   </tr>
 </table>
@@ -77,7 +76,22 @@ Each model has its own directory, and every directory holds the same types of fi
         <img src="wizard_staff/wizard_staff.png" alt="Wizard Staff" width="300">
       </a>
     </td>
-    </td>
   </tr>
 </table>
 
+## Wooden Door
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="wooden_door/">
+        <img src="wooden_door/wooden_door.png" alt="Wooden Door" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="wooden_gate/">
+        <img src="wooden_gate/wooden_gate.png" alt="Wooden Gate" width="300">
+      </a>
+    </td>
+  </tr>
+</table>
