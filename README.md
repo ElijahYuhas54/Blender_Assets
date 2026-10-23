@@ -107,5 +107,10 @@ Each model has its own directory, and every directory holds the same types of fi
         <img src="mushroom/mushroom.png" alt="Mushroom" width="300">
       </a>
     </td>
+    <td align="center">
+      <a href="mushroom/">
+        <img src="mushroom/character/mushroom_character.png" alt="Mushroom Character" width="300">
+      </a>
+    </td>
   </tr>
 </table>
