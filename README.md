@@ -9,6 +9,8 @@ Low-poly 3D assets modeled in Blender and exported for Godot. Click an image to 
 - **Cool Metal Gray:** #9AA3AB
 - **Dark Iron:** #6B7178
 - **Silver:** #D9DEE2
+- **Tan:** #A89C90
+- **Red:** #DC2020
 
 ## Directory Contents
 
@@ -26,7 +28,7 @@ Each model has its own directory, and every directory holds the same types of fi
 
 ---
 
-## Bow and Arrow
+## Bow and ArrowS
 
 <table>
   <tr>
@@ -91,6 +93,18 @@ Each model has its own directory, and every directory holds the same types of fi
     <td align="center">
       <a href="wooden_door/">
         <img src="wooden_door/wooden_gate.png" alt="Wooden Gate" width="300">
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Mushroom
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="mushroom/">
+        <img src="mushroom/mushroom.png" alt="Mushroom" width="300">
       </a>
     </td>
   </tr>
