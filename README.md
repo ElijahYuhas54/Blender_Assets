@@ -108,7 +108,7 @@ Each model has its own directory, and every directory holds the same types of fi
       </a>
     </td>
     <td align="center">
-      <a href="mushroom/">
+      <a href="mushroom/character/">
         <img src="mushroom/character/mushroom_character.png" alt="Mushroom Character" width="300">
       </a>
     </td>
